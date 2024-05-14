@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50; /* Green */
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.profile-info, .medical-history {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #4CAF50; /* Green */
+    background-color: #f9f9f9; /* Light gray */
+}
+
+.profile-info h2, .medical-history h2 {
+    color: #4CAF50; /* Green */
+}
+
+.footer {
+    background-color: #4CAF50; /* Green */
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
